@@ -1,9 +1,8 @@
 // ==UserScript==
-// @name         Userscript
+// @name         rus-to-eng-kebab-case
 // @namespace    http://tampermonkey.net/
-// @version      0.333
-// @description  try to take over the world!
-// @author       You
+// @version      1
+// @author       Lui22
 // @require      https://cdn.jsdelivr.net/npm/lodash@4.17.21/lodash.min.js
 // @grant        none
 // @include      http://*/*
